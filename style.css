@@ -1,0 +1,167 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(252, 252, 252);
+}
+.navbar ul{
+    list-style: none;
+    background-color: #fae8ecd8;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar a{
+    text-decoration: none;
+    color: rgb(22, 2, 2);
+    width: 100px;
+display: block;
+padding: 25px 20px;
+text-transform: uppercase;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.navbar a:hover{
+    background-color: tomato;
+}
+.same{
+ 
+    width: 40%;
+    float: left;
+}
+.background{
+    width: 750px;
+    height: 700px;
+}
+.name-hi{
+    padding-top: 150px;
+    padding-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
+.name-hi h1{
+    text-transform: uppercase;
+    font-size: 70px;
+}
+.hridoy{
+    color: rgb(233, 67, 45);
+    font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.name-hi a{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red,tomato);
+    color: white;
+    width: 100px;
+    padding: 10px 25px;
+    border-radius: 8px;
+}
+
+
+}
+.half{
+    width: 40%;
+  float: left;
+  height: 700px;
+    
+}
+.img{
+    width: 700px;
+}
+.width{
+    width: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    margin-top: 10%;
+    
+    background-color: rgb(235, 229, 219);
+    
+}
+.wrapper h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    margin-bottom: 60px;
+    text-align: center;
+
+}
+.team{
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+.team .team-member{
+    background: #fffdfdea;
+    margin: 5px;
+    margin-bottom: 50px;
+    width: 300px;
+    padding: 20px;
+    line-height: 20px;
+    color: #ccc;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: 10px 20px 30px rgb(231, 210, 210);
+}
+
+.team .team-member h3{
+    color: aqua;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.team-member img{
+    width: 300px;
+}
+.role{
+    font-size: 20px;
+    color: black;
+    font-weight: bold
+    ;
+}
+.team-member p{
+    color: black;
+    font-weight: 600;
+}
+
+
+
+
+
+.last-content img{
+    width: 500px;
+    padding-left: 400px;
+}
+.last-content a{
+    text-decoration: none;
+    text-align: right;
+}
+
+.bg{
+    width: 700px;
+}
+.paratext{
+    padding-left: 400px;
+    text-align: center;
+}
+.download-btn{
+    text-decoration: none;
+    
+}
