@@ -62,21 +62,25 @@ font-family: 'Poppins', sans-serif;
 }
 
 
-}
-.half{
+
+
+
+
+
+
+
+.mid-section{
     width: 40%;
-  float: left;
-  height: 700px;
-    
+    display: flex;
+  
 }
-.img{
-    width: 700px;
+.bakground-2{
+    width: 750px;
+    height: 700px;
 }
-.width{
-    width: 10%;
+.content{
+    padding-left: 200px;
 }
-
-
 
 
 
@@ -145,23 +149,3 @@ font-family: 'Poppins', sans-serif;
 
 
 
-.last-content img{
-    width: 500px;
-    padding-left: 400px;
-}
-.last-content a{
-    text-decoration: none;
-    text-align: right;
-}
-
-.bg{
-    width: 700px;
-}
-.paratext{
-    padding-left: 400px;
-    text-align: center;
-}
-.download-btn{
-    text-decoration: none;
-    
-}
